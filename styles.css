@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    align-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: antiquewhite;
+    background-color: olivedrab;
+    padding: 16px;
+    margin-left: 24px;
+    margin-right: 24px;
+    height: 100px;
+}
+
+a{
+    color: olivedrab;
+}
+
+span{
+    background-color: antiquewhite;
+    color: olivedrab;
+    font-weight: lighter;
+}
+
+div{
+    background-color: rgb(255, 230, 197);
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+
+
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    padding: 16px;
+    color: olivedrab;
+    margin-bottom: 64px;
+}
+
+body{
+    background-color: rgb(255, 244, 236);
+}
